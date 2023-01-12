@@ -35,7 +35,7 @@ Open Science: Version control systems can be used to make research more open and
 
 In summary, version control systems can help researchers work more efficiently, make research more reproducible, and increase the transparency and openness of research. This can lead to better scientific output and more trust in the research.
 
-![](assets/git_1.png)
+![](assets/git_1.png){ width=50% }
 
 ## `Git`: The algorithm
 
