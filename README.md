@@ -34,8 +34,9 @@ Experiment tracking: Version control systems can be used to keep track of differ
 Open Science: Version control systems can be used to make research more open and transparent. By making data and code publicly available via version control systems, researchers can allow other scientists to reproduce and verify their results.
 
 In summary, version control systems can help researchers work more efficiently, make research more reproducible, and increase the transparency and openness of research. This can lead to better scientific output and more trust in the research.
-
-![](assets/git_1.png){ width=50% }
+<div style="text-align:center">
+<img src="assets/git_1.png" style="50%; height: 200px;">
+</div>
 
 ## `Git`: The algorithm
 
